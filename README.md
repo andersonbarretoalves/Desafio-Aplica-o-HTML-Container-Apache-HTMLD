@@ -2,5 +2,6 @@
 
 ## Criação de um projeto para executar uma aplicação HTML com container Apache HTMLD.
 
-### arquivo compose.yml
+### arquivo Yaml
+compose.yml
 
